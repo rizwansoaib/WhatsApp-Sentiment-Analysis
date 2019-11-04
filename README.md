@@ -1,5 +1,5 @@
 # WhatsApp-Sentiment-Analysis Full Project
 
-![Click Here](https://github.com/rizwansoaib/HCL-Ai-Hackathon)
+[Click Here for Full Project](https://github.com/rizwansoaib/HCL-Ai-Hackathon)
 
 
